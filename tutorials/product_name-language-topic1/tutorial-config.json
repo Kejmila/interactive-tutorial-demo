@@ -1,0 +1,13 @@
+{
+  "files": [
+    "index.html",
+    "style.css",
+    "app.js"
+  ],
+  "panels": [
+    "terminal",
+    "browser"
+  ],
+  "capabilities": [],
+  "version": "0.0.1"
+}
